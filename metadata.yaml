@@ -1,0 +1,45 @@
+_repo: -The-cinnamon-heart-A-medieval-candy-scrape-in-three-acts-The-cinnamon-heart-A-mediaeval-cand__74002
+_version: 0.0.1
+alternative_title:
+- 'The cinnamon heart :  A medieval candy scrape in three acts'
+- 'The cinnamon heart :  A mediaeval candy scrape in 3 acts'
+creator:
+  authors:
+  - agent_name: Brown, Arthur L. (Arthur Lewis)
+    alias: Brown, Arthur Lewis
+    birthdate: 1854
+    deathdate: 1928
+    gutenberg_agent_id: '57307'
+    url: http://www.gutenberg.org/2009/agents/57307
+    wikipedia: https://en.wikipedia.org/wiki/Arthur_Lewis_Brown
+  - agent_name: Hoppin, Howard
+    birthdate: 1856
+    deathdate: 1940
+    gutenberg_agent_id: '57308'
+    url: http://www.gutenberg.org/2009/agents/57308
+    wikipedia: https://en.wikipedia.org/wiki/Howard_Hoppin
+description: ''
+gutenberg_issued: '2024-07-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74002'
+language: en
+pgterms:marc904: https://archive.org/details/cinnamonheart00brow/page/n1/mode/2up
+pgterms:marc905: 20210608155839brown
+pgterms:marc906: '1881'
+pgterms:marc907: US
+production_note: Charlene Taylor and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/American
+  Libraries.)
+publication_note: '  $aProvidence :$bJ. A. & R. A. Reid, $c1881, pubdate 1883.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American drama -- 19th century'
+- !lcsh 'Farces'
+- !lcsh 'Musicals -- Librettos'
+- !lcc 'PS'
+- GITenberg
+title: 'The cinnamon heart : $b A mediæval candy scrape in 3 acts'
+url: http://www.gutenberg.org/ebooks/74002
