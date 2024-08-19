@@ -3,6 +3,9 @@ _version: 0.1.0
 alternative_title:
 - 'The cinnamon heart :  A medieval candy scrape in three acts'
 - 'The cinnamon heart :  A mediaeval candy scrape in 3 acts'
+covers:
+- cover_type: archival
+  image_path: 74002-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Brown, Arthur L. (Arthur Lewis)
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/57308
     wikipedia: https://en.wikipedia.org/wiki/Howard_Hoppin
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74002#-The-cinnamon-heart-A-medieval-candy-scrape-in-three-acts-The-cinnamon-heart-A-mediaeval-cand_
 gutenberg_issued: '2024-07-10'
 gutenberg_type: Text
 identifiers:
